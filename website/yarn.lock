@@ -3981,10 +3981,10 @@ cypress-localstorage-commands@^2.1.0:
   resolved "https://registry.yarnpkg.com/cypress-localstorage-commands/-/cypress-localstorage-commands-2.1.0.tgz#6fc299ec60b6b5ccfc09dd23d004866b7444ee78"
   integrity sha512-DIJLCIh+CcKulAxMVEng6EhpW691emHRqFUD4dK2HUn86Xzt3ABL3SkmxW4rXgvQt697nTDpZC+jo5K5BwndrQ==
 
-cypress@10.2.0:
-  version "10.2.0"
-  resolved "https://registry.yarnpkg.com/cypress/-/cypress-10.2.0.tgz#ca078abfceb13be2a33cbba6e0e80ded770f542a"
-  integrity sha512-+i9lY5ENlfi2mJwsggzR+XASOIgMd7S/Gd3/13NCpv596n3YSplMAueBTIxNLcxDpTcIksp+9pM3UaDrJDpFqA==
+cypress@12.0.1:
+  version "12.0.1"
+  resolved "https://registry.yarnpkg.com/cypress/-/cypress-12.0.1.tgz#3a51a38b2f162256c7226e68e902cfe1750e3d92"
+  integrity sha512-I1Ag5RsPEINfUlQtV6xwkd6ktJuu5QGiKZ3pFa/IXjcyCY6I7CH3gOz0juLOhg/LXOPrQtZH35ulcWDQohyyEA==
   dependencies:
     "@cypress/request" "^2.88.10"
     "@cypress/xvfb" "^1.2.4"
@@ -4005,7 +4005,7 @@ cypress@10.2.0:
     dayjs "^1.10.4"
     debug "^4.3.2"
     enquirer "^2.3.6"
-    eventemitter2 "^6.4.3"
+    eventemitter2 "6.4.7"
     execa "4.1.0"
     executable "^4.1.1"
     extract-zip "2.0.1"
@@ -4578,10 +4578,10 @@ event-stream@=3.3.4:
     stream-combiner "~0.0.4"
     through "~2.3.1"
 
-eventemitter2@^6.4.3:
-  version "6.4.4"
-  resolved "https://registry.yarnpkg.com/eventemitter2/-/eventemitter2-6.4.4.tgz#aa96e8275c4dbeb017a5d0e03780c65612a1202b"
-  integrity sha512-HLU3NDY6wARrLCEwyGKRBvuWYyvW6mHYv72SJJAH3iJN3a6eVUvkjFkcxah1bcTgGVBBrFdIopBJPhCQFMLyXw==
+eventemitter2@6.4.7:
+  version "6.4.7"
+  resolved "https://registry.yarnpkg.com/eventemitter2/-/eventemitter2-6.4.7.tgz#a7f6c4d7abf28a14c1ef3442f21cb306a054271d"
+  integrity sha512-tYUSVOGeQPKt/eC1ABfhHy5Xd96N3oIijJvN3O9+TsC28T5V9yX9oEfEK5faP0EFSNVOG97qtAS68GBrQB2hDg==
 
 eventemitter3@^4.0.0:
   version "4.0.7"
@@ -5130,9 +5130,9 @@ globby@^13.1.1:
     merge2 "^1.4.1"
     slash "^4.0.0"
 
-got@^11.8.5:
-  version "11.8.5"
-  resolved "https://registry.yarnpkg.com/got/-/got-11.8.5.tgz#edf45e7d67f99545705de1f7bbeeeb121765ed85"
+got@^9.6.0:
+  version "9.6.0"
+  resolved "https://registry.yarnpkg.com/got/-/got-9.6.0.tgz#edf45e7d67f99545705de1f7bbeeeb121765ed85"
   integrity sha512-R7eWptXuGYxwijs0eV+v3o6+XH1IqVK8dJOEecQfTmkncw9AV4dcw/Dhxi8MdlqPthxxpZyizMzyg8RTmEsG+Q==
   dependencies:
     "@sindresorhus/is" "^0.14.0"
@@ -8637,10 +8637,10 @@ trim-trailing-lines@^1.0.0:
   resolved "https://registry.yarnpkg.com/trim-trailing-lines/-/trim-trailing-lines-1.1.4.tgz#bd4abbec7cc880462f10b2c8b5ce1d8d1ec7c2c0"
   integrity sha512-rjUWSqnfTNrjbB9NQWfPMH/xRK1deHeGsHoVfpxJ++XeYXE0d6B1En37AHfw3jtfTU7dzMzZL2jjpe8Qb5gLIQ==
 
-trim@0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/trim/-/trim-0.0.1.tgz#5858547f6b290757ee95cccc666fb50084c460dd"
-  integrity sha1-WFhUf2spB1fulczMZm+1AITEYN0=
+trim@0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/trim/-/trim-0.0.3.tgz#05243a47a3a4113e6b49367880a9cca59697a20b"
+  integrity sha512-h82ywcYhHK7veeelXrCScdH7HkWfbIT1D/CgYO+nmDarz3SGNssVBMws6jU16Ga60AJCRAvPV6w6RLuNerQqjg==
 
 trough@^1.0.0:
   version "1.0.5"
