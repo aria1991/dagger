@@ -11,7 +11,7 @@ require (
 	github.com/docker/buildx v0.8.2
 	github.com/docker/distribution v2.8.1+incompatible
 	github.com/emicklei/proto v1.9.0 // indirect
-	github.com/go-git/go-git/v5 v5.4.2
+	github.com/go-git/go-git/v5 v5.5.2
 	github.com/gofrs/flock v0.8.1
 	github.com/google/uuid v1.3.0
 	github.com/hashicorp/go-version v1.5.0
