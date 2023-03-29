@@ -11,7 +11,7 @@ require (
 	github.com/docker/buildx v0.8.2
 	github.com/docker/distribution v2.8.1+incompatible
 	github.com/emicklei/proto v1.9.0 // indirect
-	github.com/go-git/go-git/v5 v5.4.2
+	github.com/go-git/go-git/v5 v5.6.1
 	github.com/gofrs/flock v0.8.1
 	github.com/google/uuid v1.3.0
 	github.com/hashicorp/go-version v1.5.0
@@ -38,10 +38,10 @@ require (
 	go.opentelemetry.io/otel/exporters/jaeger v1.4.1
 	go.opentelemetry.io/otel/sdk v1.4.1
 	go.opentelemetry.io/otel/trace v1.4.1
-	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4
+	golang.org/x/mod v0.6.0
 	golang.org/x/oauth2 v0.0.0-20221014153046-6fdb5e3db783
 	golang.org/x/sync v0.1.0
-	golang.org/x/term v0.3.0
+	golang.org/x/term v0.5.0
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac
 	google.golang.org/grpc v1.52.0
 	gopkg.in/yaml.v3 v3.0.1
