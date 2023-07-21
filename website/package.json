@@ -22,7 +22,7 @@
     "@svgr/webpack": "^6.2.1",
     "amplitude-js": "^8.21.4",
     "clsx": "^1.1.1",
-    "docusaurus-plugin-sass": "^0.2.2",
+    "docusaurus-plugin-sass": "^0.2.5",
     "docusaurus2-dotenv": "^1.4.0",
     "file-loader": "^6.2.0",
     "nprogress": "^0.2.0",
