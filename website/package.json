@@ -50,6 +50,6 @@
     "concurrently": "^7.2.2",
     "cypress": "10.2.0",
     "cypress-localstorage-commands": "^2.1.0",
-    "start-server-and-test": "^1.13.1"
+    "start-server-and-test": "^2.0.3"
   }
 }
