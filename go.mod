@@ -12,7 +12,7 @@ require (
 	github.com/docker/distribution v2.8.1+incompatible
 	github.com/emicklei/proto v1.9.0 // indirect
 	github.com/go-git/go-git/v5 v5.4.2
-	github.com/gofrs/flock v0.8.1
+	github.com/gofrs/flock v0.12.1
 	github.com/google/uuid v1.3.0
 	github.com/hashicorp/go-version v1.5.0
 	github.com/lib/pq v1.10.0 // indirect
