@@ -7515,10 +7515,10 @@ react-router@5.3.3, react-router@^5.3.3:
     tiny-invariant "^1.0.2"
     tiny-warning "^1.0.0"
 
-react-social-login-buttons@^3.6.0:
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/react-social-login-buttons/-/react-social-login-buttons-3.6.0.tgz#2be1cb114d8c0200581ba1c8ec5ea74e89cf7701"
-  integrity sha512-m5E72jHWgC4VBxRziZYQC5kQIzooGRF+dDE97K5JgSlcDPXkNxCjCzP+Qp9fNhNujG7APvPx2Qhzi1BO2xi17Q==
+react-social-login-buttons@^4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/react-social-login-buttons/-/react-social-login-buttons-4.1.1.tgz#126c5445726f0fe64c7c260ee13513cad5f53ff5"
+  integrity sha512-GEFP+QmW9y9wSfEVrlvKDtfh1mMI4Nj1XO+Di727ND22h1+g1tYbQSydz26nNq6IKnHqe7bJiJ10sqBKm39DQg==
 
 react-textarea-autosize@^8.3.2:
   version "8.3.3"
